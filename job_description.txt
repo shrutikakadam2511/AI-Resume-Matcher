@@ -1,0 +1,29 @@
+Job Title: Data Science Graduate Trainee
+Location: On-site (Bangalore/Mumbai/Hyderabad)
+Job Type: Full-Time
+Experience: 0-1 years (Freshers welcome)
+Education: Bachelors in Computer Science or related field
+Passout Year: 2025
+
+Job Description:
+We are looking for a highly motivated and enthusiastic Data Science Graduate Trainee to join our analytics team. As a fresher, you will be trained and guided by experienced professionals while working on real-world data problems. This is an excellent opportunity to kickstart your career in data science and analytics with practical, hands-on projects.
+Data Analysis Project This project focuses on analyzing credit card customer transaction data to uncover key
+ financial insights and behavioral patterns. Using data analysis techniques with Python libraries like Pandas, NumPy, and Matplotlib/Seaborn.
+Hands-on experience with tools such as Excel, Power BI, Python, and SAS for data analysis and visualization.
+ Proficient in analyzing raw datasets and understanding the complete data life cycle, from data generation to
+ data consumption.
+ • Worked on sorting and cleaning corrupted data, applying statistical concepts, and solving real-world problem
+ statements using machine learning techniques such as customer acquisition models.
+ Gained hands-on experience in data preprocessing, exploratory data analysis (EDA), and building machine
+The dashboard was built using Power BI for Data visualization and is ideal for showcasing database design,
+ normalization, and complex query handling using SQL.
+ learning models using Python. Worked with tools such as Pandas, NumPy, Scikit-learn, and Matplotlib for
+ analysis and visualization.
+ • Collaborated on real-world projects involving predictive modeling, customer segmentation, and business insights
+ generation. Utilized SQL for data querying and Power BI for creating interactive dashboards and reports
+Skills
+ • Programming Language: Python, C, C++, Html, CSS, JavaScript, R
+ • Tools and Technologies: Power BI, Excel (DAX), SQL, SAS, PySpark, PyTorch
+ • Concepts: Machine Learning, Data Analysis, Data Visualization, Web
+ Development, Generative AI
+ • Soft Skills: Problem solving, data interpretation, project execution
